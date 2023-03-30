@@ -1,0 +1,2 @@
+мар. 30, 2023 9:22:48 PM HomeWork_2.Example WriteAnswerToFile
+INFO: Файл записан
