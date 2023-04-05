@@ -4,6 +4,10 @@ import java.util.LinkedList;
 import java.util.ListIterator;
 import java.util.Scanner;
 
+/*
+ * Найдите сумму всех элементов LinkedList, сохраняя все элементы в списке. Используйте итератор
+ */
+
 public class Example_3 {
     public static void main(String[] args) {
         LinkedList<Integer> list = new LinkedList<>();
